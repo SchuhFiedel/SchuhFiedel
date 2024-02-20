@@ -4,6 +4,8 @@
 <!--
 **SchuhFiedel/SchuhFiedel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile?utm_source=webapp&utm_medium=devcard&utm_campaign=devcardguide&utm_id=inapp
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
