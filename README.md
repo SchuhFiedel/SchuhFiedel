@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/schuhfiedel"><img src="https://api.daily.dev/devcards/v2/WQFMnR4tabhNyApU9cG1d.png?r=mrm" width="356" alt="Max Z's Dev Card"/></a>
+<a href="https://app.daily.dev/schuhfiedel"><img src="https://api.daily.dev/devcards/v2/WQFMnR4tabhNyApU9cG1d.png?type=wide&r=ay0" width="652" alt="Max Z's Dev Card"/></a>
 <!--
 **SchuhFiedel/SchuhFiedel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
